@@ -1,6 +1,8 @@
 # Micromouse
 A complete solution for [micromouse](https://en.wikipedia.org/wiki/Micromouse) development including STM32-based hardware implementation and Micromouse Simulator integration. The project implements the Floodfill algorithm for efficient maze solving.
 
+![](assets/mms.gif)
+
 ## Overview
 This repository contains two main components:
 - STM32-based Micromouse firmware for physical robot implementation using C
